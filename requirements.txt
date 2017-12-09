@@ -1,0 +1,5 @@
+google-cloud
+google-cloud-logging
+pickledb
+progressbar
+sqlite3
